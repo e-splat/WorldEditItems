@@ -1,0 +1,29 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "png-transparent-cartoon-compass-design-food-technic-fine-removebg-preview",
+    "customModelName": "Normal",
+    "name": "Wand Compass",
+    "specialInfo": [
+      "Pass through Blocks"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:WorldEditTools"
+    },
+    "toolType": "Special",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 100,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

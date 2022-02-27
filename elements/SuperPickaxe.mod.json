@@ -1,0 +1,29 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "1393233",
+    "customModelName": "Normal",
+    "name": "Super Pickaxe",
+    "specialInfo": [
+      "superpickaxe for WorldEdit"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:WorldEditTools"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 100,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

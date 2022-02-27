@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "worldedit_axe_item:items/png-transparent-cartoon-compass-design-food-technic-fine-removebg-preview"
+  }
+}

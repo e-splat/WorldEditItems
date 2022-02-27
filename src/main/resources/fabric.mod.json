@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "worldedit_axe_item",
+  "version": "1.0.0",
+  "name": "WorldEdit Axe Item",
+  "authors": [
+    "utente, MCreator"
+  ],
+  "contact": {
+    "homepage": "https://mcreator.net",
+    "sources": "https://github.com/ClothCreators/Fabric-Generator-MCreator"
+  },
+  "license": "Academic Free License v3.0",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mcreator.worldeditaxeitem.WorldeditAxeItemMod"
+    ],
+    "client": [
+      "net.mcreator.worldeditaxeitem.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.11.6",
+    "fabric": "*"
+  }
+}
