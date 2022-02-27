@@ -1,6 +1,6 @@
 # WorldEditItems
 Does it bother you that WorldEdit uses native objects in Minecraft and ruins the gaming experience? this mod is just for you
-![](https://i.imgur.com/HabVZJR.png)
+![https://www.curseforge.com/minecraft/mc-mods/fabric-api](https://i.imgur.com/HabVZJR.png)
 ![](https://i.imgur.com/NPJlfEq.png)
 
 **⚠️WARNING!!! THIS MOD IS ONLY FOR FABRIC!!! FOR NOW, I DON'T HAVE A PROJECT FOR FORGE**
