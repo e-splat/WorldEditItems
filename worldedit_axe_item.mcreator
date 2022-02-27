@@ -1,0 +1,70 @@
+{
+  "mod_elements": [
+    {
+      "name": "WandAxeWE",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wand_axe_we"
+    },
+    {
+      "name": "WorldEditTools",
+      "type": "tab",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "world_edit_tools"
+    },
+    {
+      "name": "SuperPickaxe",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "super_pickaxe"
+    },
+    {
+      "name": "WandCompass",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wand_compass"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.worldedit_axe_item.super_pickaxe": "Super Pickaxe",
+      "itemGroup.worldedit_axe_item.world_edit_tools": "WorldEdit Tools",
+      "item.worldedit_axe_item.wand_compass": "Wand Compass",
+      "item.worldedit_axe_item.wand_axe_we": "Wand Axe"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "worldedit_axe_item",
+    "modName": "WorldEdit Axe Item",
+    "version": "1.0.0",
+    "author": "by e splat",
+    "websiteURL": "https://mcreator.net",
+    "license": "GNU General Public License version 3 (GPLv3)",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "worldedititemsicon",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-1.16.5",
+    "credits": "Does it bother you that WorldEdit uses native objects in Minecraft and ruins the gaming experience? this mod is just for you ",
+    "modElementsPackage": "net.mcreator.worldeditaxeitem",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}
