@@ -1,2 +1,4 @@
 ![image](graficaworldedititems.png)
-FORGE MOD: https://github.com/scoppytech/worldedititemsforge
+
+##NOTE
+###This Repo is very unstable, im trying to have a cool repo with a branch for all versions
