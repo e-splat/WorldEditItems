@@ -15,6 +15,6 @@ Available for **Fabric** (requires [Fabric API](https://modrinth.com/mod/fabric-
 
 **NOTE**: if Commands i gived are not working, please report this to [WorldEdit Devs](https://github.com/enginehub/worldedit/issues)
 
-##HEY!!!
+## HEY!!!
 
 don't take this repo stable, expect releases. i'm working on it
