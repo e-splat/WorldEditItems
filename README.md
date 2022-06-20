@@ -1,4 +1,4 @@
-![](https://github.com/e-splat/WorldEditItems/blob/Fabric-1.16.5/cosoworldedititems.png?raw=true)
+![](https://github.com/e-splat/WorldEditItems/blob/Quilt/Fabric/cosoworldedititems.png?raw=true)
 
 Does it bother you that WorldEdit uses native objects in Minecraft and ruins the gaming experience? This mod is just for you! This mod adds three new items for use with WorldEdit so that you do not have to use vanilla items.
 
