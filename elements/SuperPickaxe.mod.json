@@ -1,9 +1,9 @@
 {
-  "_fv": 24,
+  "_fv": 28,
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "1393233",
+    "texture": "pickaxeworldedititems",
     "customModelName": "Normal",
     "name": "Super Pickaxe",
     "specialInfo": [

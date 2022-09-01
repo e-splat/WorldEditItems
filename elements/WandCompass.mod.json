@@ -1,9 +1,9 @@
 {
-  "_fv": 24,
+  "_fv": 28,
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "png-transparent-cartoon-compass-design-food-technic-fine-removebg-preview",
+    "texture": "compassworldedititems",
     "customModelName": "Normal",
     "name": "Wand Compass",
     "specialInfo": [

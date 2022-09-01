@@ -1,0 +1,75 @@
+{
+  "mod_elements": [
+    {
+      "name": "WandAxeWE",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wand_axe_we"
+    },
+    {
+      "name": "WorldEditTools",
+      "type": "tab",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "world_edit_tools"
+    },
+    {
+      "name": "SuperPickaxe",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "super_pickaxe"
+    },
+    {
+      "name": "WandCompass",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wand_compass"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.worldedit_items.wand_axe_we": "Wand Axe",
+      "item.worldedit_items.wand_compass": "Wand Compass",
+      "item.worldedit_axe_item.super_pickaxe": "Super Pickaxe",
+      "itemGroup.worldedit_axe_item.world_edit_tools": "WorldEdit Tools",
+      "itemGroup.worldedit_items.world_edit_tools": "WorldEdit Tools",
+      "item.worldedit_axe_item.wand_compass": "Wand Compass",
+      "item.worldedit_axe_item.wand_axe_we": "Wand Axe",
+      "item.worldedit_items.super_pickaxe": "Super Pickaxe"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "worldedit_items",
+    "modName": "WorldEdit Items",
+    "version": "1.2.0",
+    "description": "adds Items only for WorldEdit use",
+    "author": "e splat",
+    "websiteURL": "https://github.com/e-splat/WorldEditItems",
+    "license": "MIT License",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "axeworldedititems400x",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-1.17.1",
+    "credits": "Does it bother you that WorldEdit uses native objects in Minecraft and ruins the gaming experience? this mod is just for you ",
+    "modElementsPackage": "net.esplat.worldedititems",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}

@@ -1,9 +1,9 @@
 {
-  "_fv": 24,
+  "_fv": 28,
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "13932",
+    "texture": "axeworldedititems",
     "customModelName": "Normal",
     "name": "Wand Axe",
     "specialInfo": [],
