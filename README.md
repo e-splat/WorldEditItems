@@ -17,4 +17,4 @@ Available for **Fabric** (requires [Fabric API](https://modrinth.com/mod/fabric-
 
 ## NOTE
 
-Some older source code revisions have been lost, so not every historical release can be reproduced. Development continues from the versions that are still available.
+Some older source code revisions have been lost, so not every historical release can be reproduced. This repository is not always kept up to date.
